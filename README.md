@@ -10,5 +10,10 @@ Twitter: https://twitter.com/AFoxTaleGame
 
 Instagram: https://www.instagram.com/afoxtalegame/
 
+![](A Fox Tale City.gif)
+
+![](A Fox Tale Cave.gif)
+
+![](A Fox Tale Lab.gif)
 
 
